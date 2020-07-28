@@ -1,5 +1,4 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/red-hat-data-grid/count.svg)](https://www.katacoda.com/red-hat-data-grid "Get your profile on Katacoda.com")
-
-Visit https://www.katacoda.com/red-hat-data-grid to view the profile and interactive scenarios
+visit https://access.redhat.com/documentation/en-us/red_hat_data_grid/7.3/html-single/red_hat_data_grid_user_guide/index#command_line_interface
+for cli details.
