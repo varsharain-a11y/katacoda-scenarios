@@ -2,6 +2,11 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Clone our example repository that contains the set of cli commands:
 
-`echo 'Hello World'`{{execute}}
+`git clone https://github.com/varsharain-a11y/katacoda-scenarios`{{execute}}
+
+Within the repository, you will see a set of commands implementing various cli commands
+
+
+
