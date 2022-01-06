@@ -8,17 +8,17 @@ Clone our example repository that contains the set of cli commands:
 
 Within the repository, you will see a set of commands implementing various cli commands
 
-Install JDG 7.3.1 from https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=68721&product=data.grid&version=7.3&downloadType=patches
+Install RHDG 8.2 from https://access.redhat.com/jbossnetwork/restricted/softwareDownload.html?softwareId=98151
 
-`wget https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=68721&product=data.grid&version=7.3&downloadType=patches`{{execute}}
+`wget https://access.redhat.com/jbossnetwork/restricted/softwareDownload.html?softwareId=98151`{{execute}}
 
-`unzip jboss-datagrid-7.3.1-server.zip`{{execute}}
+`unzip redhat-datagrid-server-8.2.0.zip`{{execute}}
 
-`cd /bin/stanalone.sh`{{execute}}
+`cd /bin/server.sh`{{execute}}
 
 Open a new terminal
 
-`./jboss-cli.sh`{{execute}}
+`./cli.sh user create myuser -p password`{{execute}}
 
 
 
